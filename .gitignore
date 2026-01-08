@@ -1,0 +1,6 @@
+signlang_env/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.h5
+.env
